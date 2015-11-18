@@ -1,3 +1,10 @@
+//
+//  Arduino Starter Kit projects
+//
+//  Created by Claudio Carnino
+//  Copyright © 2015 Tugulab. All rights reserved.
+//
+
 // Pin ids
 enum PinId {
     PinIdRedLed1st = 5, 
