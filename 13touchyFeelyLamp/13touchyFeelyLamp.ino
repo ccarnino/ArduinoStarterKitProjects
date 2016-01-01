@@ -14,7 +14,7 @@ enum PinId {
     PinIdLed = 12,
 };
 
-const int CapacitiveSensorThreshold = 1000;
+const int CapacitiveSensorThreshold = 300;
 const int CapacitiveSensorNumberOfSamples = 30;
 
 // Setup variables
